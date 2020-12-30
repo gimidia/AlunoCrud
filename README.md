@@ -1,4 +1,5 @@
 # Alunocrud
+Projeto Crud para estudo do Angular.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
